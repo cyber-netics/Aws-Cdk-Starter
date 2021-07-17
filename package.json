@@ -1,3 +1,7 @@
 {
+  "scripts": {
+    "bootstrap": "cdk bootstrap",
+    "deploy": "npm run deploy --prefix ./src"
+  },
   "dependencies": {}
 }
